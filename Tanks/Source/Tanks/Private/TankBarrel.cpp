@@ -2,6 +2,7 @@
 
 #include "TankBarrel.h"
 #include "Tanks.h"
+#include "Engine/World.h"
 #include "TankAimingComponent.h"
 
 void UTankBarrel::Elevate(float RelativeSpeed)
